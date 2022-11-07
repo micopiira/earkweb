@@ -30,10 +30,10 @@ PyPDF2==1.26.0
 bagit==1.8.1
 PyICU==2.8
 # eatb
--e git://github.com/E-ARK-Software/eatb.git#egg=eatb
+-e git+https://github.com/E-ARK-Software/eatb.git#egg=eatb
 #-e eatb
 # python-magic
--e git://github.com/ahupp/python-magic.git#egg=python-magic
+-e git+https://github.com/ahupp/python-magic.git#egg=python-magic
 # fido (patched release 1.4.1)
-git+git://github.com/openpreserve/fido.git@a82e85d89f4ef3805d7289615a6c356cff12b37b
+git+https://github.com/openpreserve/fido.git@a82e85d89f4ef3805d7289615a6c356cff12b37b
 
